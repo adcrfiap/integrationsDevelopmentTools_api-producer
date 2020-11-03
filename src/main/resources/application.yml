@@ -1,0 +1,13 @@
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+  main:
+    allow-bean-definition-overriding: true
+fiap:
+  rabbitmq:
+    exchange: fiap.exchange
+    queue: myQueue
+    routingkey: fiap.routingkey

@@ -1,0 +1,12 @@
+br/com/fiap/integrationproducer/config/rabbitmq/CloudAMQConfig.java
+ br.com.fiap.integrationproducer.config.rabbitmq.CloudAMQConfig
+br/com/fiap/integrationproducer/IntegrationProducerApplication.java
+ br.com.fiap.integrationproducer.IntegrationProducerApplication
+br/com/fiap/integrationproducer/service/MessagingService.java
+ br.com.fiap.integrationproducer.service.MessagingService
+br/com/fiap/integrationproducer/model/Message.java
+ br.com.fiap.integrationproducer.model.Message
+br/com/fiap/integrationproducer/controller/MessageProducerController.java
+ br.com.fiap.integrationproducer.controller.MessageProducerController
+br/com/fiap/integrationproducer/service/MessagingServiceImpl.java
+ br.com.fiap.integrationproducer.service.MessagingServiceImpl
