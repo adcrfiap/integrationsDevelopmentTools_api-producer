@@ -7,7 +7,7 @@
 - queue -> Nome da fila que sera consumida cloudAMQ
 - routingkey -> Chave de roteamento da fila
 
-### Configuracao.java dentro do pacote config
+### CloudAMQConfig.java dentro do pacote config
  
 **Dados de conexão do cloudAMQ:**
 - Username -> Usuário de conexão
